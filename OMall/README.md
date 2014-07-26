@@ -1,0 +1,2 @@
+# OMall
+### a Sails application
