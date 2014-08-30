@@ -10,6 +10,8 @@
  */
 module.exports.globals = {
 
+  DATABASE_URL: "postgres://yrlmpdrhqetwul:soPd4mG0GCE7qKvbHJYkELz3eU@ec2-54-197-241-82.compute-1.amazonaws.com:5432/d3oq5vkv0qontm",
+  
   /****************************************************************************
   *                                                                           *
   * Expose the lodash installed in Sails core as a global variable. If this   *
@@ -60,4 +62,6 @@ module.exports.globals = {
   ****************************************************************************/
 
 	// models: true
+
+  
 };
